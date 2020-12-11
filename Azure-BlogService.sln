@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Munizoft.Azure.Services", "Services\Munizoft.Azure.Services.csproj", "{C0CE4630-2057-4355-853D-C5D122F9F9B9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI", "WebAPI\WebAPI.csproj", "{B4C678D9-7CE1-4A05-AAD4-3C0ADE88E67D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0CE4630-2057-4355-853D-C5D122F9F9B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0CE4630-2057-4355-853D-C5D122F9F9B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0CE4630-2057-4355-853D-C5D122F9F9B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0CE4630-2057-4355-853D-C5D122F9F9B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4C678D9-7CE1-4A05-AAD4-3C0ADE88E67D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4C678D9-7CE1-4A05-AAD4-3C0ADE88E67D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4C678D9-7CE1-4A05-AAD4-3C0ADE88E67D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4C678D9-7CE1-4A05-AAD4-3C0ADE88E67D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C68F3202-7C58-4D49-8870-9B4BB2BD491F}
+	EndGlobalSection
+EndGlobal

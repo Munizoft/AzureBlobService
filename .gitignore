@@ -1,0 +1,8 @@
+.vs
+*.user
+
+Services/bin
+Services/obj
+
+WebAPI/bin
+WebAPI/obj
